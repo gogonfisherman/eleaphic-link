@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "eleaphic-link",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "577c1a96-67cc-41a7-a823-2c28b6baa25e",
+			"database_name": "eleaphic-link"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
